@@ -1,0 +1,7 @@
+﻿VerbosePreference=false
+Фильтры=fox,order:score_desc
+Blacklist=
+Score=0
+Rating=safe,questionable,explicit
+PageLimit=1
+PostLimit=15
